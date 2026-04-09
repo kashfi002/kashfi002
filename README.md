@@ -52,9 +52,9 @@ Long-term? I want to build my own startup and create something big.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashfi002&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashfi002E&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
