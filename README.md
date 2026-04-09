@@ -35,9 +35,8 @@ Long-term? I want to build my own startup and create something big.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://tiktok.com/@your-username"><img src="https://cdn.simpleicons.org/tiktok" width="48"/></a>
-  <a href="https://snapchat.com/add/your-username"><img src="https://cdn.simpleicons.org/snapchat" width="48"/></a>
+  <a href="https://www.linkedin.com/in/umma-hafsa-kashfi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.facebook.com/umma.hafsa.kashfi.2025/"><img src="https://cdn.simpleicons.org/facebook" width="48"/></a>
 </p>
 
 
