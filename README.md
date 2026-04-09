@@ -9,16 +9,16 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a Computer Science student who’s obsessed with building things, understanding how systems work, and pushing myself beyond average.  
+I’m a Computer Science student who’s passionate about building things, understanding how systems work, and pushing myself beyond average.  
 I’m deeply interested in AI/ML, software development, and creating meaningful tech that actually impacts people.  
 Long-term? I want to build my own startup and create something big.
 
 ---
 
 ## 🚀 Current Focus
-- 🌱 Currently learning **AI/ML fundamentals & Data Communication**
-- 💻 Building a **JavaFX Mood-Based Application**
-- ⚙️ Working on a **Railway Ticket System (OOP-based project)**
+- 🌱 Currently learning **Frontend Development**
+- 💻 Building a **Data Analysis**
+- ⚙️ Working on a **Movie Suggestion App**
 - 📚 Improving **problem-solving & competitive programming skills**
 - 🎬 Exploring **story writing & film concepts**
 
