@@ -44,9 +44,9 @@ Long-term? I want to build my own startup and create something big.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashfi002&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashfi002&theme=tokyonight" />
