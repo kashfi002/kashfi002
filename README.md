@@ -24,8 +24,11 @@ I'm a Computer Science student focused on building clean, user-friendly web inte
 ---
 
 ### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kashfi002\&layout=compact)
+C
+C++
+Python
+Java
+Javascript
 
 ---
 
